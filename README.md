@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **Mobin.varnaseri@أmail.com**
+- 📫 How to reach me **Mobin.varnaseri@Gmail.com**
 
 - ⚡ Fun fact **I am eager for learning**
 
