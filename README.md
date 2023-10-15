@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Some small Js Project**
 
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **Mobin.varnaseri@gmail.com**
+- 📫 How to reach me **Mobin.varnaseri@أmail.com**
 
 - ⚡ Fun fact **I am eager for learning**
 
