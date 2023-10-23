@@ -73,8 +73,7 @@
 
    <img src="https://img.shields.io/badge/RTL-E9113B.svg?style=for-the-badge&logo=RTL&logoColor=white" alt="">
 
-   <img src="
-      https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="React js">
+   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="React js">
 
 
   
