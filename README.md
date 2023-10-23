@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/mobin_vr" target="blank"><img src="https://img.shields.io/twitter/follow/mobin_vr?logo=twitter&style=for-the-badge" alt="mobin_vr" /></a> </p>
 
-<img align='right' width='450' src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **Some small Js Project**
 
