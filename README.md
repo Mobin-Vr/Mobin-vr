@@ -45,7 +45,9 @@
    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt=""><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white"
       alt="">
 
-      <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt=""><img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-thbadge&logo=Linux&logoColor=black" alt="">
+      
+      <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
 
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobin-vr&show_icons=true&locale=en&layout=compact" alt="mobin-vr" /></p>
