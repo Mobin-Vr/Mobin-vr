@@ -21,7 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
       alt="JavaScript">
@@ -84,7 +83,7 @@
 
    <img src="
    https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="React js">
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobin-vr&show_icons=true&locale=en&layout=compact" alt="mobin-vr" /></p>
 
