@@ -53,12 +53,12 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin-vr&theme=monokai" alt="mobin-vr" /></p>
 
-<div align="center">  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobin-vr&theme=monokai" height="180em" />  
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobin-vr&theme=monokai" height="180em" />  
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobin-vr&theme=monokai" height="180em" />  
-</div>
+
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-vr&layout=compact&theme=monokai" alt=mobin-vr />  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin-vr&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-vr" /> </p>
+
 
