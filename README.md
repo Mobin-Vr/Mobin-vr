@@ -48,10 +48,17 @@
 
 ## My GitHub Stats
 ![](https://github-profile-trophy.vercel.app/?username=mobin&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-readme-stats.vercel.app/api?username=mobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mobin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mobin-vr&show_icons=true&locale=en&theme=monokai" alt="mobin-vr" /></p>  
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin-vr&theme=monokai" alt="mobin-vr" /></p>
+
+<div align="center">  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobin-vr&theme=monokai" height="180em" />  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobin-vr&theme=monokai" height="180em" />  
+</div>
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-vr&layout=compact&theme=monokai" alt=mobin-vr />  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin-vr&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-vr" /> </p>
 
----
