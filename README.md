@@ -1,62 +1,61 @@
 
 <h1 align="center">Hi 👋, I'm Mobin</h1>
-<h3 align="center">A front-end developer who is passionately and crazily in love with learning more and more!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin-vr&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-vr" /> </p>
+<h3 >Front-End Developer</h3>
+
+<p> A Front-end developer with deep knowledge in JavaScript frameworks such as "React.js". I'm actively seeking a challenging opportunity to contribute to the bulid and development of large-scale projects, where I can fully leverage my advanced skills, creativity, and education.</p>
+
+---
+
+- 🌍 I'm based in Tehran
+
+- 🚀 I’m currently working on Some small Js Project
+
+- 🧠 I’m currently learning TypeScript
+
+- 📫 You can contact me at **Mobin.varnaseri@Gmail.com**
+
+- ⚡ I am eager for learning
 
 <p align="left"> <a href="https://twitter.com/mobin_vr" target="blank"><img src="https://img.shields.io/twitter/follow/mobin_vr?logo=twitter&style=for-the-badge" alt="mobin_vr" /></a> </p>
 
 
-- 🔭 I’m currently working on **Some small Js Project**
+<h3 align="left">Skills</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 📫 How to reach me **Mobin.varnaseri@Gmail.com**
-
-- ⚡ Fun fact **I am eager for learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mobin_vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mobin_vr" height="30" width="40" /></a>
+<p align="left" dir="auto">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" style="max-width: 100%;"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a>
+<a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
+<a href="https://tailwindcss.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" style="max-width: 100%;"></a>
+<a href="https://sass-lang.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="max-width: 100%;"></a>
+<a href="https://reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;"></a>
+<a href="https://redux.js.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;"></a>
+<a href="https://www.adobe.com/uk/products/xd.html" rel="nofollow"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="37" height="37"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Socials</h3>
 
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"
-      alt="JavaScript">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"
-      alt="TypeScript">
-
-
-   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"
-      alt="React js"> <img
-      src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white"
-      alt=""> <img
-      src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white"
-      alt=""> <img
-      src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white"
-      alt=""> <img
-      src="https://img.shields.io/badge/React%20Table-FF4154.svg?style=for-the-badge&logo=React-Table&logoColor=white"
-      alt="">
-
-   <img
-      src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"
-      alt=""> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"
-      alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"
-      alt=""> <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"
-      alt="">
-
-   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt=""> <img
-      src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="">
-
-   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt=""> <img
-      src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="">
+<p align="left" dir="auto">
+<a href="https://www.behance.com/danielcranney" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://www.github.com/Mobin-Vr"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/username" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
+<a href="https://twitter.com/mobin_vr" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>
+</p>
 
 
-   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobin-vr&show_icons=true&locale=en&layout=compact" alt="mobin-vr" /></p>
 
+----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobin-vr&show_icons=true&locale=en" alt="mobin-vr" /></p>
+#### My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mobin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin-vr&" alt="mobin-vr" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobin-vr&label=Profile%20views&color=0e75b6&style=flat" alt="mobin-vr" /> </p>
+
+###  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
