@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Mobin</h1>
 
 <h3 >Front-End Developer</h3>
@@ -53,12 +54,14 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mobin-vr&theme=monokai" alt="mobin-vr" /></p>
 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobin-vr&theme=monokai" height="180em" />  
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobin-vr&theme=monokai" height="180em" />  
-
-
+<p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-vr&layout=compact&theme=monokai" alt=mobin-vr />  
+</p>
 
+<p>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobin-vr&theme=monokai" height="180em" />  
+</p>
 
-
+<p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobin-vr&theme=monokai" height="180em" />  
+</p>
